@@ -1,0 +1,1606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>
+	Quick Spa Parts
+</title>&#10;
+    <meta id="metaDesc" name="description" content="QuickSpaParts has spas, hot tub replacement parts, chemicals, covers, heaters, and accessories for sale. Fast delivery. We have Spa Parts Plus and more." />&#10;
+    <meta id="metaAiDesc" property="og:description" />&#10;
+    <meta id="metaOgTitle" property="og:title" content="Quick Spa Parts" /><meta id="metaOgDesc" property="og:description" content="QuickSpaParts has spas, hot tub replacement parts, chemicals, covers, heaters, and accessories for sale. Fast delivery. We have Spa Parts Plus and more." />&#10;
+    <meta id="metaTwitterCard" name="twitter:card" /><meta id="metaTwitterTitle" name="twitter:title" /><meta id="metaTwitterDesc" name="twitter:description" />&#10;
+    <meta id="metaInstagramCard" name="instagram:card" /><meta id="metaInstagramTitle" name="instagram:title" /><meta id="metaInstagramDesc" name="instagram:description" />&#10;
+    <meta id="metaFacebookCard" name="facebook:card" /><meta id="metaFacebookTitle" name="facebook:title" /><meta id="metaFacebookDesc" name="facebook:description" />&#10;
+    <meta id="metaPinterestCard" name="pinterest:card" /><meta id="metaPinterestTitle" name="pinterest:title" /><meta id="metaPinterestDesc" name="pinterest:description" />&#10;
+    <meta id="metatiktokCard" name="tiktok:card" /><meta id="metatiktokTitle" name="tiktok:title" /><meta id="metatiktokDesc" name="tiktok:description" />&#10;
+    <meta id="metaBingCard" name="bing:card" /><meta id="metaBingTitle" name="bing:title" /><meta id="metaBingDesc" name="bing:description" />&#10;
+    <meta id="metaYoutubeCard" name="youtube:card" /><meta id="metaYoutubeTitle" name="youtube:title" /><meta id="metaYoutubeDesc" name="youtube:description" />&#10;
+    <meta id="metaGoogleDesc1" name="google:description" /><meta id="metaGoogleDesc2" name="google:description" /><meta id="metaGoogleDesc3" name="google:description" /><meta id="metaGoogleDesc4" name="google:description" /><meta id="metaGoogleDesc5" name="google:description" /><meta id="metaGoogleDesc6" name="google:description" /><meta id="metaGoogleDesc7" name="google:description" /><meta id="metaGoogleDesc8" name="google:description" /><meta id="metaGoogleDesc9" name="google:description" /><meta id="metaGoogleDesc10" name="google:description" /><meta id="metaGoogleDesc11" name="google:description" /><meta id="metaGoogleDesc12" name="google:description" /><meta id="metaGoogleDesc13" name="google:description" /><meta id="metaGoogleDesc14" name="google:description" /><meta id="metaGoogleDesc15" name="google:description" /><meta id="metaGoogleDesc16" name="google:description" /><meta id="metaGoogleDesc17" name="google:description" /><meta id="metaGoogleDesc18" name="google:description" /><meta id="metaGoogleDesc19" name="google:description" /><meta id="metaGoogleDesc20" name="google:description" />&#10;    
+    <meta charset="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="content-language" content="en" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="p:domain_verify" content="464b839bb21e41db9e7b4e85ac2897f4" />     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- jQuery UI -->
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" />
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+
+    <!-- jQuery Zoom -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.6.1/jquery.zoom.min.js" integrity="sha512-xhvWWTTHpLC+d+TEOSX2N0V4Se1989D03qp9ByRsiQsYcdKmQhQ8fsSTX3KLlzs0jF4dPmq0nIzvEc3jdYqKkw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+
+    <!-- Swiper -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.css" integrity="sha512-Lc4aT4sbiVWDTSgqn3lf5kwKECm7rU45AReUS9WI2k4yRPSKtS+kJ9aV1jrxDUIyetNFRYZ3U2gR6WWbtWbIfA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.js" integrity="sha512-KBCt3sdFOcFtYTgEfE3uJckVpvPr1w8HPugyPgHFE/4iJOwhwj6eSaF27bDJTHRX2jyAFOgV3Ve9vOD97rbjrg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    	
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/style.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/PageImages/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/PageImages/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/PageImages/favicon-16x16.png" /><link rel="mask-icon" href="/PageImages/safari-pinned-tab.svg" color="#5bbad5" /><meta name="msapplication-TileColor" content="#2d89ef" /><meta name="theme-color" content="#ffffff" /><meta name="google-site-verification" content="e3r3-VzqeeYfJnRmFBO0pDyYb3eslFsropEp5cE14eY" />
+
+
+    <!-- Google tag (gtag.js) -->
+   
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-78P7S2Q3MY"></script> 
+    <script> 
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-78P7S2Q3MY'); 
+    </script>
+
+    <!-- Meta Pixel loader. The advertising-cookie callback below controls when it loads. -->
+    <script>
+        function loadMetaPixel() {
+            // Prevent duplicate initialization if the callback runs more than once.
+            if (window.metaPixelLoaded) {
+                return;
+            }
+
+            window.metaPixelLoaded = true;
+
+            !function (f, b, e, v, n, t, s) {
+                if (f.fbq) return;
+
+                n = f.fbq = function () {
+                    n.callMethod
+                        ? n.callMethod.apply(n, arguments)
+                        : n.queue.push(arguments);
+                };
+
+                if (!f._fbq) f._fbq = n;
+
+                n.push = n;
+                n.loaded = true;
+                n.version = '2.0';
+                n.queue = [];
+
+                t = b.createElement(e);
+                t.async = true;
+                t.src = v;
+
+                s = b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t, s);
+            }(
+                window,
+                document,
+                'script',
+                'https://connect.facebook.net/en_US/fbevents.js'
+            );
+
+            fbq('consent', 'grant');
+            fbq('init', '339654093850344');
+            fbq('track', 'PageView');
+        }
+
+        function rejectMetaPixel() {
+            if (window.fbq) {
+                fbq('consent', 'revoke');
+            }
+        }
+    </script>
+
+
+    
+    
+    
+
+    
+    
+   
+    
+<link rel="stylesheet" href="/MasterTemplate/silktide-consent-manager.css" />
+<script src="/MasterTemplate/silktide-consent-manager.js"></script>
+<script>
+silktideCookieBannerManager.updateCookieBannerConfig({
+  background: {
+    showBackground: true
+  },
+  cookieIcon: {
+    position: "bottomLeft"
+  },
+  cookieTypes: [
+    {
+      id: "necessary",
+      name: "Necessary",
+      description: "<p>These cookies are necessary for the website to function properly and cannot be switched off. They help with things like logging in and setting your privacy preferences.</p>",
+      required: false,
+      onAccept: function() {
+        
+      }
+    },
+    {
+      id: "analytics",
+      name: "Analytics",
+      description: "<p>These cookies help us improve the site by tracking which pages are most popular and how visitors move around the site.</p>",
+      required: false,
+      onAccept: function() {
+        
+      }
+    },
+    {
+      id: "advertising",
+      name: "Advertising",
+      description: "<p>These cookies help us measure advertising performance and understand whether Facebook and Instagram ads lead to website visits, checkouts, and purchases.</p>",
+      required: false,
+      defaultValue: false,
+      onAccept: function() {
+        loadMetaPixel();
+      },
+      onReject: function() {
+        rejectMetaPixel();
+      }
+    }
+  ],
+  text: {
+    banner: {
+      description: "<p>We use cookies on our site to enhance your user experience, provide personalized content, and analyze our traffic. <a href=\"https://quickspaparts.com/privacy-policy.aspx\" target=\"_blank\">Cookie Policy.</a></p>",
+      acceptAllButtonText: "Accept all",
+      acceptAllButtonAccessibleLabel: "Accept all cookies",
+      rejectNonEssentialButtonText: "Reject non-essential",
+      rejectNonEssentialButtonAccessibleLabel: "Reject non-essential",
+      preferencesButtonText: "Preferences",
+      preferencesButtonAccessibleLabel: "Toggle preferences"
+    },
+    preferences: {
+      title: "Customize your cookie preferences",
+      description: "<p>We respect your right to privacy. You can choose not to allow some types of cookies. Your cookie preferences will apply across our website.</p>",
+      creditLinkText: "Get this banner for free",
+      creditLinkAccessibleLabel: "Get this banner for free"
+    }
+  },
+  position: {
+    banner: "bottomCenter"
+  }
+});
+</script>
+    <!-- Other scripts that depend on the above libraries -->
+    
+</head>
+<body>
+    <form method="post" action="./_96354_39187_PLUCS6053309-CDCL.jpg?404%3bhttps%3a%2f%2fQuickSpaparts.com%3a443%2fImages%2fProducts%2fProduct%2f_96354_39187_PLUCS6053309-CDCL.jpg" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="J8DPYkzmbzFtSg2dZ00CysefrNCB+BESXCYlkRk/GSWatCGZZIG8FFp7Jl5B+05L/mpdVPyM3Ebzu9fJ0k9VG2taSp51KdKFQKAMMfBadq5PIHmhPEcbyFpW+H6/XtUi3WXxWJfZ2U+Zt1UUXRcTJPF0xjZaDc9yMPdQtHZ3Wc2+vKDmIpuKAJKzx1LnoUmnnFWyt2Q6u/HR4QsjRkFG2JxGTRl9vpa8Txg3CdrZ2/a9KFt1NHAKpFRgdodpEfnRp5p5EDbeKwTW79SOLIZ5EUt2/To/0wb4fzclKrlohME2y55ovbIR+O0MN6EvD7iwxA7JeNBhDjClx9JCh2a/Ec8nfrik/tT7uRHUg1EHpCclSzI1PCsJU1UN/Oxu80Q/u9BF43ffEcVCUggKOpRWW5zgsheZVt4KBUMPzNttiOURkgC9HclKO1FLggZAQDUYMHon7hYb3vCMmzpyXdu0Ig1C/GshxYLOa7FlN77Xwl7hUyHUm2VFt+MPAGPmfOojTMECjp5mXWbvgtkliGIgqOnHK9eY8TLFoGVO9dgyMSB8P4nOO/yVkLdcxBqb7uPNoLEWA4v7B7fw7F56gEC216Tmiau18W8vNyIjAxxyYbYUXAtakIK/VOae6oH0at47eNrmnXCmlIkTTIyFGsV4DGq3pVjKti6EzcbugvPbxhHjqb1SJRDfWCyD1iGMuz1vuHOZfY7deUzBzD9+C22msger63KBd2md2qt6zyz4a2rDnjUplb1/AKbSc0lfBsxSWENyJ0frOskSl9NGJy0IfKhrNOqkcjKTfGnMFDnmL0ysQ66FYip+190+BVev4uuNGvr/4XqtyL423vpKSoFBjUcr0t6zIlXOwtO6cvMM9wW8TSecFII8SR364k+qHD/b7hwZHDbRsr83J7ltF/ZYG1MsbPsMOHGDD+7LJqlcENZr7ZDfjwnteU6cE7o/2t1yw5OQeR/nAAZHQKF5r+nMi+kKJtGZ983ae7YeaKb1TNghNf9yRGJloJOochhvqCGXUd+WNXDRn46ZZBJsOY4GtG6PDb+q+S/n8G6oX2lXg0XyNKJuet6r/jOaMjgkwskIYhVA5tsrRHnnDOoYBkyKOepavwTLBHdcDJxrcHaUFJ9DXNFDiV0EB1p3CDeWIdEj21jLjCVl4JfrX8pb/4RsbEiRi4YkIPGkij2QDaWsrP+WB+2gjxMgev7HXEKjEYpC10HM0hD+kG1npSKaVX72MnLnRVkhPBptYZb2Pubj9zT+K1d4cYNMgiadrGkxX9HF/vSUFh9uhQzOkvTSlryfrjsx23EwAbPFsENRJ1YLEq2MUU5XMyMxlNRGQdF3oDIm4ZZcLOPTspry5eXoDJMJmIY8HICSeSqZh10XFLWQHsoK9CXE/qudAaPyEv4mN4mCg1RYhgwvw/G7gvueHotFp9HOdxkrbZwVjWV20HKXzk0Equji9ajB+YQagI9NuLr2PGewuKzpb+XJXvZmg5y47fDsEjMi7NxVc9RBSFVn9rPEt0xxzh8TVHoQPgr4+MNx8bzeqbuP0hBmlE3eNhAyC3HVRKlJivxBkKaBktW2M1poZuuyta4H2SDKDo+xZFA2gOgKKxqw4gN/WJbWng3aa4Zi7aNFRFRJWJJ+EpnGO/59dp1POVNksDcM2jHNEMkQ5yEFLLD7lQSxroxvGp066m1b3+8hRtNRUGISVIHKHxsezgI/2GkYGXzBJvVQsSe3rIP8jdwhJO9DUg5ort+db3HHLWdGywU/ajqltI2/ldAUmH++1GvUg/nQ20TtdSzO6Tsg7QhayCl0+/wgid4qQHUuLY9y3nU76AxLkn1jQbfm7pSRl3e6jvH5kitKB2BHKygFxwHtRirAvCrCnzoN11yU8AU05+kJewr0y/IGJAZbOUOFALLNFLIXjkjQXkE2UfCVKIrTwq/Nyo+PhzWqAtSgDVgICa46Mm3D1x1whIsvjz8v5519m360MU93y/7ma/MoSJ/X+p5cPIDb8Z7kR8WCOrayJxXtVIuUfGIToMk=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZHbVBuYGRux5AVTu1LCR2GsrVXBPXH-ZE-b29TEVvXrnDG1OEB6eiz_AxYqgoGBxYg2&amp;t=638504951871040021" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C3693509" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+        <header class="sticky-top">
+            <!-- Upper Navigation -->
+            
+
+
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<nav id="upper-nav" class="navbar bg-primary">
+    <div class="container-xxxl">
+        <ul
+            class="navbar-nav flex-row justify-content-around justify-content-md-between w-100">
+            <li class="nav-item d-none d-md-inline">
+            
+
+            <div class="dropdown">
+                    <a class="btn dropdown-toggle nav-link mx-2" href="tel:1-800-225-7727" role="button" aria-label="Call Cal Spas at 800-225-7727" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                     
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="15px">
+                            <path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 
+                            38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 
+                            207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/>
+                        </svg>
+
+                        <span class="d-none d-xl-inline">1-800-225-7727</span>
+                    
+                    </a>
+
+                    <div class="dropdown-menu position-absolute pt-0" aria-labelledby="dropdownMenuLink">
+                        <div class="bg-secondary border-bottom border-dark py-1">
+                            <p class="fw-bold fw-3 mx-2 mb-0 py-2 text-center">How Can We Help?</p>
+                        </div>
+                        <a href="tel:1-800-225-7727" class="d-block m-2">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="15px" style="fill: #15437F" >
+                                <path d="M164.9 24.6c-7.7-18.6-28-28.5-47.4-23.2l-88 24C12.1 30.2 0 46 0 64C0 311.4 200.6 512 448 512c18 0 33.8-12.1 
+                                38.6-29.5l24-88c5.3-19.4-4.6-39.7-23.2-47.4l-96-40c-16.3-6.8-35.2-2.1-46.3 11.6L304.7 368C234.3 334.7 177.3 277.7 144 
+                                207.3L193.3 167c13.7-11.2 18.4-30 11.6-46.3l-40-96z"/>
+                            </svg>
+                            <span class="text-primary fw-bold">1-800-225-7727</span>
+                        </a>
+                        <a class="d-block m-2 text-primary fw-bold" href="/Hot-Tub-Parts/Contact-Us">Contact Us</a>
+                        <a class="d-block m-2 text-primary fw-bold" href="mailto:support@quickspaparts.com">Email Us</a>
+                        <p class="mx-2 text-muted mb-0">Support:</p>
+                        <p class="mx-2 text-muted mb-0">Mon-Fri: 8am - 4:30pm PST</p>
+                        <p class="mx-2 text-muted mb-0">Sat-Sun: Closed</p>
+                    </div>
+                </div>
+        </li>
+              <li class="nav-item d-none d-md-inline">
+            
+            
+            <a class="nav-link mx-2" href="/Hot-Tub-Parts/Find-A-Part">Help Find A Part</a>
+        </li>
+        <li class="nav-item d-none d-lg-inline">
+            
+            <a class="nav-link mx-2" href="/Hot-Tub-Parts/FAQ">F.A.Q</a>
+        </li>
+        <li class="nav-item d-none d-md-inline">
+            
+            <a class="nav-link mx-2" href="/Hot-Tub-Parts/Track-Your-Order">Order Tracking</a>
+        </li>
+        <li class="nav-item d-none d-md-inline">
+            
+            <a class="nav-link mx-2" href="/Hot-Tub-Parts/Returns">Returns</a>
+        </li>
+        <li class="nav-item d-none d-lg-inline">
+            
+            <a class="nav-link mx-2" href="/Hot-Tub-Parts/Contact-Us">Contact Us</a>
+        </li>
+        <li class="nav-item d-none d-md-inline">
+            
+            <a class="nav-link mx-2" href="/Hot-Tub-Parts/ServiceLocator">Service Dealer Locator</a>
+
+        </li>
+
+            <li class="nav-item no-hover" id="cart_count_relative">
+                <a class="nav-link" href="/Shopping-Cart" aria-label="Shopping Cart">
+                    <span class="position-relative" >
+                        <i class="fas fa-shopping-cart mr-2"></i>
+                        <span id="cart_count" class="count no-hover" style="background-color:transparent;"></span>
+
+                    </span>
+                    
+                </a>
+            </li>
+            
+            <li class="nav-item">
+                
+                <a id="HeaderNav_BlueBar_lnkLogInOut" class="nav-link text-nowrap px-3" aria-label="Dealer Login" href="../../../Login">
+                    
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 448 512"
+                        width="15px"
+                        class="align-baseline d-inline-block">
+                        <path
+                            d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0S96 57.3 96 128s57.3 128 128 128zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z" />
+                    </svg>
+                    <span class="align-baseline d-none d-xl-inline">
+                        <span id="HeaderNav_BlueBar_lbLogInOut"><small>Login</small></span></span>
+                    
+                </a>
+            </li>
+			     <li id="HeaderNav_BlueBar_lnkDealerName" class="nav-item">            
+            <a class="nav-link text-nowrap px-3"  aria-label="Dealer" href="#">
+                
+                
+                    
+              </a>
+                
+            
+            </li>
+        </ul>
+    </div>
+</nav>
+
+
+            
+ 
+<nav id="middle-nav" class="navbar-expand-md navbar-light pt-1 bg-light">
+	<div class="container-xxxl navbar">
+		<ul class="navbar-nav w-100">
+			<li>
+				<a class="navbar-brand ps-0 pe-3 text-center d-block" href="/"
+				><img
+					src="/Images/Common/quick-spa-parts-logo.webp"
+					alt="Quick Spas Logo"
+					id="logo"
+					class="img-fluid"
+					width="200" height="72" 
+				/></a>
+			</li> 
+			
+			
+			<li class="d-flex flex-wrap flex-md-nowrap justify-content-center align-items-center w-100">
+				
+				<div id="HeaderNav_SearchBar_pnlSearch" class="d-flex w-100 mx-2" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;HeaderNav_SearchBar_btnSearchBtn&#39;)">
+	
+					
+					
+					<input name="ctl00$HeaderNav_SearchBar$txtSearchItems" id="HeaderNav_SearchBar_txtSearchItems" class="form-control me-2" type="search" aria-label="Search" placeholder="Enter Product, Serial Number, Part #  or Description" onfocus="setDefaultText(this,1,&#39;focus&#39;);" onblur="setDefaultText(this,1,&#39;blur&#39;);" autocomplete="off" /> 
+
+					
+					<input type="button" name="ctl00$HeaderNav_SearchBar$btnSearchBtn" value="SEARCH" onclick="javascript:__doPostBack(&#39;ctl00$HeaderNav_SearchBar$btnSearchBtn&#39;,&#39;&#39;)" id="HeaderNav_SearchBar_btnSearchBtn" class="btn btn-primary" aria-label="search" />
+					
+				
+</div>
+				
+				
+				<div class="nav-item">
+					<a
+						class="nav-link text-danger text-nowrap h1 fw-bold mb-0 px-3"
+						href="/Hot-Tub-Parts/On-Sale"
+						><!--<svg
+						xmlns="http://www.w3.org/2000/svg"
+						viewBox="0 0 448 512"
+						fill="red"
+						width="24px"
+						>
+						<path
+							d="M345 39.1L472.8 168.4c52.4 53 52.4 138.2 0 191.2L360.8 472.9c-9.3 9.4-24.5 9.5-33.9 .2s-9.5-24.5-.2-33.9L438.6 325.9c33.9-34.3 33.9-89.4 0-123.7L310.9 72.9c-9.3-9.4-9.2-24.6 .2-33.9s24.6-9.2 33.9 .2zM0 229.5V80C0 53.5 21.5 32 48 32H197.5c17 0 33.3 6.7 45.3 18.7l168 168c25 25 25 65.5 0 90.5L277.3 442.7c-25 25-65.5 25-90.5 0l-168-168C6.7 262.7 0 246.5 0 229.5zM144 144c0-17.7-14.3-32-32-32s-32 14.3-32 32s14.3 32 32 32s32-14.3 32-32z"
+						/>
+						</svg>-->
+						<img src="/Images/Common/fireworks.gif" alt="Quick Spa Parts - firework animation" style="max-height: 66px;">
+						<span style="font-family:'Times New Roman', Times, serif; font-style:italic; cursor:pointer;" >Sales & Offers</span>
+					</a>
+				</div>
+				<div class="nav-item d-none d-xl-inline">
+					<a class="nav-link" href="https://www.calspas.com" target="_blank" aria-label="Cal Spas"
+						><img src="/Images/Common/cal-spas-logo.webp" alt="cal spas logo" class="nav-logo" />
+					</a>
+				</div>
+				<div class="nav-item d-none d-xl-inline">
+					<a class="nav-link" href="https://www.quickbbqparts.com" target="_blank" aria-label="Quick BBQ Parts">
+						<img
+							src="/Images/Common/quickbbqparts-logo.webp"
+							alt="quick bbq parts logo"
+							class="nav-logo"
+							width="114" height="40"
+						/>
+					</a>
+				</div>
+			</li>
+		</ul>
+	</div>
+</nav>
+
+        
+
+
+<script type="text/javascript" language="javascript">
+	function setDefaultText(obj, textType, focusblur) {
+		if (textType == "1") {
+			if (focusblur == 'focus' && obj.value == '')
+				obj.value = '';
+			else {
+				if (obj.value == '')
+					obj.value = ''
+			}
+		}
+		else {
+			if (focusblur == 'focus' && obj.value == 'Enter Keywords (Part Description)')
+				obj.value = '';
+			else {
+				if (obj.value == '')
+					obj.value = 'Enter Keywords (Part Description)'
+			}
+		}
+	}
+</script>
+
+
+
+
+            
+ 
+<nav id="lower-nav" class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+        <div class="container-xxxl">
+         <div class="d-flex justify-content-between d-lg-none">
+            <button
+              class="navbar-toggler ms-2"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="nav-link p-0" aria-label="Cal Spas" href="https://calspas.com/"><img src="/images/common/cal-spas-logo.webp" alt="Cal spas logo" class="nav-logo" width="114" height="40"/></a>
+
+            <a class="nav-link p-0" aria-label="Quick BBQ Parts" href="https://quickbbqparts.com/"><img src="/images/common/quickbbqparts-logo.webp" alt="Quick bbq parts" class="nav-logo" width="114" height="40"/></a>
+          </div>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav w-100 justify-content-between">
+              <li id="shop-category" class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle ps-0 text-dark fw-bold d-none d-lg-block"
+                  href="#"
+                  id="shopCategoryDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  <span>Shop All Category</span>
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="shopCategoryDropdown">
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Filters">Filters</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Filters">Search By Brand</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges">All Filters</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Filters/Parts-And-Lids">Parts And Lids</a></li>                      
+                      <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Filters">
+                          <img
+                            src="/images/default/nav-filters.webp"
+                            alt="Quick Spa Parts - spa and hot tub replacement filters"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Filters</h2>
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Covers">Spa Covers</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Covers">Find Your Cover</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Spa-Covers/Covers">Covers</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Spa-Covers/Spa-Cover-Parts">Spa Cover Parts</a></li>                      
+					            <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Cal-Spas-Covers">
+                          <img
+                            src="/images/default/nav-covers.webp"
+                            alt="Quick Spa Parts - spa and hot tub covers"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Spa Covers</h2>
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Maintenance">Maintenance</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Acrylic-Repair-Kit">Acrylic Repair Kit</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Brushes">Brushes</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Chemicals">Chemicals</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Spa-Tools">Spa Tools</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Test-Strips">Test Strips</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Thermometers">Thermometers</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Vacuums">Vacuums</a></li>
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Maintenance">
+                          <img
+                            src="/images/default/nav-maintenance.webp"
+                            alt="Quick Spa Parts - Maintenance products to help clean your spa and hot tub"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                        </a>
+                        <h2 class="text-primary text-center mb-0 fw-bold h3">Maintenance</h2>
+                      </li>
+                    </ul>
+                  </li>               
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Control-Boxes">Control Boxes</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Box/Circuit-Boards">Circuit Boards</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Box/Control-Boxes">Control Boxes</a></li>   
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Control-Boxes">
+                          <img
+                            src="/images/default/nav-control-boxes.webp"
+                            alt="Quick Spa Parts - replacement control boxes for your spa and hot tub"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Control Boxes</h2>
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Circuit-Boards">Circuit Boards</a>
+                    
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Control-Panels">Control Panels</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Panels/Control-Panels">Control Panels</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Panels/Control-Panel-Overlays">Overlays</a></li> 
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Control-Panels">
+                          <img
+                            src="/images/default/nav-control-panels.webp"
+                            alt="Quick Spa Parts - replacement control panels for your spa and hot tub"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Control Panels</h2>
+                        </a>
+                      </li>					  
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Electrical">Electrical</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Blower-And-Blower-Parts">Blower & Blower Parts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Bromine-Generator">Bromine Generator</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Parts">Electrical Parts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Ozone">Ozone</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Sensors">Sensors</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Switches">Switches</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/UV-System">UV System</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Wiring">Wiring</a></li>
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Electrical">
+                          <img
+                            src="/images/default/nav-electrical.webp"
+                            alt="Quick Spa Parts - Electrical parts for your spa and hot tub"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Electrical</h2>
+                        </a>
+                      </li>	
+                    </ul>
+                </li>
+
+                <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Entertainment">Entertainment</a>                    
+                    <ul class="dropdown-submenu">
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Entertainment/Speakers">Speakers</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Entertainment/Stereo-System-And-Components">Stereo Components</a></li> 
+						<li class="mt-auto">
+							<a href="/Hot-Tub-Parts/Entertainment">
+							  <img
+								src="/images/default/nav-entertainment.webp"
+								alt="Quick Spa Parts - parts for spa and hot tub speakers and stereo components"
+								class="img-fluid w-100 p-3 mx-auto d-block"
+							  />
+                <h2 class="text-primary text-center mb-0 fw-bold h3">Entertainment</h2>
+							</a>
+                        </li>							
+                    </ul>                      
+                </li>
+
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Cabinets">Exterior</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Exterior-Cabinet/Cabinet-Panels">Cabinet Panels</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Exterior-Cabinet/Screws">Screws</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Exterior-Cabinet/Trim">Trims</a></li>  
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Cal-Spas-Cabinets">
+                          <img
+                            src="/images/default/nav-Exterior.webp"
+                            alt="Quick Spa Parts - spa and hot tub exterior cabinet panels"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Exterior</h2>
+                        </a>
+                      </li>				  
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Fitness">Fitness</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Fitness-Lifestyle/AromaTherapy">Aromatherapy</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Fitness-Lifestyle/Equipment">Equipment</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Fitness-Lifestyle/Parts">Parts</a></li>     
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Fitness">
+                          <img
+                            src="/images/default/nav-fitness.webp"
+                            alt="Quick Spa Parts - spa and hot tub fitness Equipment"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Fitness</h2>
+                        </a>
+                      </li>	
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Hand-Rails/Hand-Rails">Hand Rails</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Hand-Rails/Hand-Rails">Hand Rails</a></li> 
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Shop/Hand-Rails/Hand-Rails">
+                          <img
+                            src="/images/default/nav-hand-rails.webp"
+                            alt="Quick Spa Parts - spa and hot tub hand rails"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Hand Rails</h2>
+                        </a>
+                      </li>	
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Heaters">Heaters</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Heaters/Heater-Parts">Heater Parts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Heaters/Heaters">Heaters</a></li> 
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Heaters">
+                          <img
+                            src="/images/default/nav-heaters.webp"
+                            alt="Quick Spa Parts - spa and hot tub heaters"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Heaters</h2>
+                        </a>
+                      </li>						  
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Jets">Jets</a>
+                    <ul class="dropdown-submenu">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Jet-Bodies">Jet Bodies</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Jet-Inserts">Jet Inserts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Jet-Parts">Jet Parts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Waterfalls">Waterfalls</a></li> 
+					  <li class="mt-auto">
+                        <a href="/Hot-Tub-Parts/Jets">
+                          <img
+                            src="/images/default/nav-jets.webp"
+                            alt="Quick Spa Parts - spa and hot tub replacement parts for jets"
+                            class="img-fluid w-100 p-3 mx-auto d-block"
+                          />
+                          <h2 class="text-primary text-center mb-0 fw-bold h3">Jets</h2>
+                        </a>
+                      </li>	
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Lights">Lights</a>
+                    <ul class="dropdown-submenu">
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Lights/Led-Lights-and-Parts">LED Lights/Parts</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Lights/Lens-Covers">Lens Covers</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Lights/Spa-Lights">Spa Lights</a></li>   
+						<li class="mt-auto">
+							<a href="/Hot-Tub-Parts/Lights">
+							  <img
+								src="/images/default/nav-lights.webp"
+								alt="Quick Spa Parts - spa and hot tub replacement lights and parts"
+								class="img-fluid w-100 p-3 mx-auto d-block"
+							  />
+                <h2 class="text-primary text-center mb-0 fw-bold h3">Lights</h2>
+							</a>
+					    </li>							
+                    </ul>
+                  </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Plumbing">Plumbing</a>
+                    <ul class="dropdown-submenu">
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Air-Systems">Air Systems</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Fittings-and-Adapters">Fittings &amp; Adapters</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/PVC-Fittings-and-Unions">PVC Fitting/Unions</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Insulation">Insulation</a></li>
+                        
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Tubing-Hose-and-Flex-Pipe">Tubing Hose and Flex Pipe</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Valves">Valves</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Water-Manifolds">Water Manifold</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Weirs">Weirs</a></li>
+						<li class="mt-auto">
+							<a href="/Hot-Tub-Parts/Plumbing">
+							  <img
+								src="/images/default/nav-plumbing.webp"
+								alt="Quick Spa Parts - spa and hot tub plumbing parts"
+								class="img-fluid w-100 p-3 mx-auto d-block"
+							  />
+                <h2 class="text-primary text-center mb-0 fw-bold h3">Plumbing</h2>
+							</a>
+						 </li>	
+                    </ul>
+                  </li>
+                    <li>
+                        <a class="dropdown-item" href="/Hot-Tub-Parts/Spa-Pumps">Pumps</a>
+                        <ul class="dropdown-submenu">
+                            <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Pumps/Pumps">All Pumps</a></li>
+                            <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Pumps/Pump-Parts">Pump Parts</a></li>
+                            
+							<li class="mt-auto">
+								<a href="/Hot-Tub-Parts/Spa-Pumps">
+								  <img
+									src="/images/default/nav-pumps.webp"
+									alt="Quick Spa Parts - spa and hot tub pumps and parts"
+									class="img-fluid w-100 p-3 mx-auto d-block"
+								  />
+                  <h2 class="text-primary text-center mb-0 fw-bold h3">Pumps</h2>
+								</a>
+							</li>	
+                        </ul>
+                    </li>
+                  <li>
+                    <a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Accessories">Spa Accessories</a>
+                    <ul class="dropdown-submenu">
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Cover-Lift">Cover Lifts</a></li>
+                        
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Side-Accessories">Side Accessories</a></li>
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Pillows">Spa Pillows</a></li>
+                        
+                        <li><a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Surrounds">Spa Surrounds</a></li>
+						<li class="mt-auto">
+							<a href="/Hot-Tub-Parts/Cal-Spas-Accessories">
+							  <img
+								src="/images/default/nav-accessories.webp"
+								alt="Quick Spa Parts - spa and hot tub Accessories"
+								class="img-fluid w-100 p-3 mx-auto d-block"
+							  />
+                <h2 class="text-primary text-center mb-0 fw-bold h3">Spa Accessories</h2>
+							</a>
+                        </li>	
+                    </ul>
+                  </li>
+                    <li>
+                        
+                        <a class="dropdown-item" href="https://calspas.com/owners-manuals" target="_blank">Spa Manuals</a>
+                    </li>
+                    <li>
+                        
+                        <a class="dropdown-item" href="/Hot-Tub-Parts/Ozonators">Ozonators</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Pillows">Pillows</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Chemicals">Chemicals</a>
+                    </li>
+                    <!-- <li>
+                        <a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Box/Circuit-Boards">Circuit Boards</a>
+                    </li> -->
+                </ul>
+              </li>
+
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Filters"
+                  id="filterDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Filters
+                </a>
+                <ul id="filters-nav" class="dropdown-menu nav-hover-secondary bg-primary py-0" aria-labelledby="filterDropdown">
+                  <div class="d-flex">
+                    <div class="pt-1 d-flex flex-column">
+                      <li><a class="dropdown-item text-light" href="/Hot-Tub-Parts/Filters">Search By Brand</a></li>
+                      <li><a class="dropdown-item text-light" href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges">All Filter Cartridges</a></li>
+                      <li><a class="dropdown-item text-light" href="/Hot-Tub-Parts/Shop/Filters/Parts-And-Lids">Parts And Lids</a></li>
+                      <li class="mt-auto">
+                        <img src="/Images/Default/nav-filters-img.webp" 
+                          alt="Quick Spa Parts - spa and hot tub filters for sale " 
+                          class="img-fluid w-100" 
+                          style="border: 5px solid #15437f; border-right: none;"
+                          width="163" height="163"
+                          />
+                      </li>
+                    </div>
+                    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 pb-3 mx-0 justify-content-center" style="border: 5px solid #15437f; background-color: #fff;">
+                      <div class="col">
+                        <a
+                          href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges/Topology"
+                          class="d-flex flex-column justify-content-center h-100"
+                        >
+                          <img
+                            src="/Images/Default/Topology-filters-nav.webp"
+                            alt="Quick Spa Parts - Balboa Water Group"
+                            class="img-fluid d-block mx-auto m-3 pb-0"
+                            width="151" height="86"
+                          />
+                          
+                        </a>
+                      </div>
+                      <div class="col">
+                        <a
+                          href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges/Darlly"
+                          class="d-flex flex-column justify-content-center h-100"
+                        >
+                          <img
+                            src="/Images/Default/Darlly-filters-nav.webp"
+                            alt="Quick Spa Parts - darlly filters"
+                            class="img-fluid d-block mx-auto m-3 pb-0"
+                            width="151" height="86"
+                          />
+                          
+                        </a>
+                      </div>
+                      <div class="col">
+                        <a
+                          href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges/Filbur"
+                          class="d-flex flex-column justify-content-center h-100"
+                        >
+                          <img
+                            src="/Images/Default/Filbur-filters-nav.webp"
+                            alt="Quick Spa Parts - filbur filters"
+                            class="img-fluid d-block mx-auto m-3 pb-0"
+                            width="151" height="86"
+                          />
+                          
+                        </a>
+                      </div>
+                      <div class="col">
+                        <a
+                          href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges/PleatCo"
+                          class="d-flex flex-column justify-content-center h-100"
+                        >
+                          <img
+                            src="/Images/Default/Pleatco-filters-nav.webp"
+                            alt="Quick Spa Parts - pleatco filters"
+                            class="img-fluid d-block mx-auto m-3 pb-0"
+                            width="151" height="86"
+                          />
+                          
+                        </a>
+                      </div>
+                      <div class="col">
+                        <a
+                          href="/Hot-Tub-Parts/Shop/Filters/Filter-Cartridges/Unicel"
+                          class="d-flex flex-column justify-content-center h-100"
+                        >
+                          <img
+                            src="/Images/Default/Unicel-filters-nav.webp"
+                            alt="Quick Spa Parts - unicel filters"
+                            class="img-fluid d-block mx-auto m-3 pb-0"
+                            width="151" height="86"
+                          />
+                          
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none d-xl-block">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Cal-Spas-Covers"
+                  id="coversDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Spa Covers
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="coversDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Covers">Find Your Cover</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Spa-Covers/Covers">See All Covers</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Spa-Covers/Spa-Cover-Parts">Spa Cover Parts</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Maintenance"
+                  id="maintenanceDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Maintenance
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="maintenanceDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Acrylic-Repair-Kit">Acrylic Repair Kit</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Brushes">Brushes</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Chemicals">Chemicals</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Spa-Tools">Spa Tools</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Test-Strips">Test Strips</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Thermometers">Thermometers</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Maintenance/Vacuums">Vacuums</a></li>
+                </ul>
+              </li>
+              <div id="darken-body"></div>
+              <li class="nav-item dropdown">
+                <a 
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Brands"                  
+                  id="brandsDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Brands
+                </a>
+
+                  
+
+                  <div id="brands-nav" class="dropdown-menu pb-0 nav-hover-secondary" aria-labelledby="brandsDropdown" style="border: 5px solid #15437f;">
+                  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mx-0">
+                    
+                            <div class="col" style="--bs-gutter-x:0.5em !important;">
+                                <div id="HeaderNav_MenuBar_rptBrandMenuBrand_pnlBrandIdentity_0">
+	
+                                    <a id="HeaderNav_MenuBar_rptBrandMenuBrand_hylBrandIdentity_0" class="d-flex flex-column justify-content-center h-100" href="/Hot-Tub-Parts/Brands/inSPAration" style="text-decoration:none;">
+                                        <div style="height:96px; vertical-align:middle;">
+                                            <img id="HeaderNav_MenuBar_rptBrandMenuBrand_imgBrandIdentity_0" class="img-fluid d-block mx-auto" alt="brand logo" src="/Brands/Images/insparation-logo.jpg" style="margin:8px 0; max-height:80px;" />
+                                        </div>
+                                        
+                                                                            
+                                        <div class="text-light p-2 flex-grow-1 g-0" style="vertical-align:middle; ">
+                                            <span id="HeaderNav_MenuBar_rptBrandMenuBrand_lblBrandAbout_0" class="text-primary" style="text-align:center;">Since 1975, the leading aromatherapy fragrance for spas, hot tubs and whirlpools. Good for your spa, good for you.</span>
+                                        </div>
+
+                                    </a>
+                                
+</div>
+                            </div>
+                        
+                            <div class="col" style="--bs-gutter-x:0.5em !important;">
+                                <div id="HeaderNav_MenuBar_rptBrandMenuBrand_pnlBrandIdentity_1">
+	
+                                    <a id="HeaderNav_MenuBar_rptBrandMenuBrand_hylBrandIdentity_1" class="d-flex flex-column justify-content-center h-100" href="/Hot-Tub-Parts/Brands/Balboa" style="text-decoration:none;">
+                                        <div style="height:96px; vertical-align:middle;">
+                                            <img id="HeaderNav_MenuBar_rptBrandMenuBrand_imgBrandIdentity_1" class="img-fluid d-block mx-auto" alt="brand logo" src="/Brands/Images/BWG_Logo_500px.png" style="margin:8px 0; max-height:80px;" />
+                                        </div>
+                                        
+                                                                            
+                                        <div class="text-light p-2 flex-grow-1 g-0" style="vertical-align:middle; ">
+                                            <span id="HeaderNav_MenuBar_rptBrandMenuBrand_lblBrandAbout_1" class="text-primary" style="text-align:center;">Balboa Water Group (BWG) is a global supplier of control systems, jets, white goods and accessories for the leisure water industry.</span>
+                                        </div>
+
+                                    </a>
+                                
+</div>
+                            </div>
+                        
+                            <div class="col" style="--bs-gutter-x:0.5em !important;">
+                                <div id="HeaderNav_MenuBar_rptBrandMenuBrand_pnlBrandIdentity_2">
+	
+                                    <a id="HeaderNav_MenuBar_rptBrandMenuBrand_hylBrandIdentity_2" class="d-flex flex-column justify-content-center h-100" href="/Hot-Tub-Parts/Brands/KingTech" style="text-decoration:none;">
+                                        <div style="height:96px; vertical-align:middle;">
+                                            <img id="HeaderNav_MenuBar_rptBrandMenuBrand_imgBrandIdentity_2" class="img-fluid d-block mx-auto" alt="brand logo" src="/Brands/Images/KingTechLogo.png" style="margin:8px 0; max-height:80px;" />
+                                        </div>
+                                        
+                                                                            
+                                        <div class="text-light p-2 flex-grow-1 g-0" style="vertical-align:middle; ">
+                                            <span id="HeaderNav_MenuBar_rptBrandMenuBrand_lblBrandAbout_2" class="text-primary" style="text-align:center;">King Technology creates and manufactures innovative, smart products and systems to sanitize pools and hot tubs.</span>
+                                        </div>
+
+                                    </a>
+                                
+</div>
+                            </div>
+                        
+                   
+                  </div>
+                  <hr class="dropdown-divider" />
+                   <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 mx-0">
+                      
+                            <div class="col">
+                              <div class="p-3">                                
+                                  <h2 class="fs-6 fw-bold"><span id="HeaderNav_MenuBar_rptBrandMenuFeatures_lblBrandFeatureHeader_0">Featured Category</span></h2>
+                                  <a id="HeaderNav_MenuBar_rptBrandMenuFeatures_hylBrandFeature1_0" class="dropdown-item ps-0" href="/Hot-Tub-Parts/Brands/inSPAration/1">Aromatherapy</a>
+                                  
+                                  
+                                  
+                              </div>
+                            </div>
+                        
+                            <div class="col">
+                              <div class="p-3">                                
+                                  <h2 class="fs-6 fw-bold"><span id="HeaderNav_MenuBar_rptBrandMenuFeatures_lblBrandFeatureHeader_1">Featured Categories</span></h2>
+                                  <a id="HeaderNav_MenuBar_rptBrandMenuFeatures_hylBrandFeature1_1" class="dropdown-item ps-0" href="/Hot-Tub-Parts/Brands/Balboa/1">Controls</a>
+                                  <a id="HeaderNav_MenuBar_rptBrandMenuFeatures_hylBrandFeature2_1" class="dropdown-item ps-0" href="/Hot-Tub-Parts/Brands/Balboa/2">Pumps & Blowers</a>
+                                  <a id="HeaderNav_MenuBar_rptBrandMenuFeatures_hylBrandFeature3_1" class="dropdown-item ps-0" href="/Hot-Tub-Parts/Brands/Balboa/3">Plumbing & Jets</a>
+                                  
+                              </div>
+                            </div>
+                        
+                            <div class="col">
+                              <div class="p-3">                                
+                                  <h2 class="fs-6 fw-bold"><span id="HeaderNav_MenuBar_rptBrandMenuFeatures_lblBrandFeatureHeader_2">Featured Category</span></h2>
+                                  <a id="HeaderNav_MenuBar_rptBrandMenuFeatures_hylBrandFeature1_2" class="dropdown-item ps-0" href="/Hot-Tub-Parts/Brands/KingTech/1">Spa Maintenance</a>
+                                  
+                                  
+                                  
+                              </div>
+                            </div>
+                        
+                       </div>
+                   
+                    
+                    
+                    
+                  
+                  <div class="text-center mb-0 py-2 fw-bold bg-primary" >
+                    <a href="/Hot-Tub-Parts/Brands" class="text-light">All Brands A-Z</a>
+                  </div>                  
+                  </div>
+
+                  
+                
+
+
+                  
+              </li>
+              
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Control-Boxes"
+                  id="controlBoxesDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Control Boxes
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="controlBoxesDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Box/Circuit-Boards">Circuit Boards</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Box/Control-Boxes">Control Boxes</a></li>  
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Control-Panels"
+                  id="controlPanelsDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Control Panels
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="controlPanelsDropdown">                    
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Panels/Control-Panel-Overlays">Control Panel Overlays</a></li>  
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Control-Panels/Control-Panels">Control Panels</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Electrical"
+                  id="electricalDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Electrical
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="electricalDropdown">
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Blower-And-Blower-Parts">Blower & Blower Parts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Bromine-Generator">Bromine Generator</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Parts">Electrical Parts</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Ozone">Ozone</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Sensors">Sensors</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Switches">Switches</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/UV-System">UV System</a></li>
+                      <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Electrical/Wiring">Wiring</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Entertainment"
+                  id="entertainmentDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Entertainment
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="entertainmentDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Entertainment/Speakers">Speakers</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Entertainment/Stereo-System-And-Components">Stereo Components</a></li>  
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none d-xl-block">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Cal-Spas-Cabinets"
+                  id="cabinetDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Exterior Cabinet
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="cabinetDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Cabinets">Search A Cabinet</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Exterior-Cabinet/Cabinet-Panels">Cabinet Panels</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Exterior-Cabinet/Screws">Screws</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Exterior-Cabinet/Trim">Trims</a></li> 
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Fitness"
+                  id="fitnessDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Fitness
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="fitnessDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Fitness-Lifestyle/AromaTherapy">Aromatherapy</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Fitness-Lifestyle/Equipment">Equipment</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Fitness-Lifestyle/Parts">Parts</a>
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Shop/Hand-Rails/Hand-Rails"
+                  id="handRailsDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Hand Rails
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="handRailsDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Hand-Rails/Hand-Rails">Hand Rails</a></li>                  
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Heaters"
+                  id="heatersDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Heaters
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="heatersDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Heaters/Heater-Parts">Heater Parts</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Heaters/Heaters">Heaters</a></li> 
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none d-xxl-block">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Jets"
+                  id="jetsDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Jets
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="jetsDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Jet-Bodies">Jet Bodies</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Jet-Inserts">Jet Inserts</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Jet-Parts">Jet Parts</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Jets/Waterfalls">Waterfalls</a></li> 
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Lights"
+                  id="lightsDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Lights
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="lightsDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Lights/Led-Lights-and-Parts">LED Lights/Parts</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Lights/Lens-Covers">Lens Covers</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Lights/Spa-Lights">Spa Lights</a></li>                   
+                </ul>
+              </li>
+              <li class="nav-item dropdown d-lg-none">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Plumbing"
+                  id="plumbingDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Plumbing
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="plumbingDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Air-Systems">Air Systems</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Fittings-and-Adapters">Fittings &amp; Adapters</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/PVC-Fittings-and-Unions">PVC Fitting/Unions</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Insulation">Insulation</a></li>
+                    
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Tubing-Hose-and-Flex-Pipe">Tubing Hose and Flex Pipe</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Valves">Valves</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Water-Manifolds">Water Manifold</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Plumbing/Weirs">Weirs</a></li>
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Spa-Pumps"
+                  id="pumpsDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Pumps
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="pumpsDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Spa-Pumps">Search By Brands</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Pumps/Pumps">All Pumps</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Pumps/Pump-Parts">Pump Parts</a></li>
+                    
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle text-dark fw-bold"
+                  href="/Hot-Tub-Parts/Cal-Spas-Accessories"
+                  id="accessoriesDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Spa Accessories
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="accessoriesDropdown">
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Cover-Lift">Cover Lift</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Exercise-Equipment">Exercise-Equipment</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Pillows">Pillows</a></li>
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Side-Accessories">Side Accessories</a></li>                    
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Shop/Accessories/Steps">All Steps</a></li>   
+                    <hr />
+                    <li><a class="dropdown-item" href="/Hot-Tub-Parts/Cal-Spas-Steps">Cal-Metro™ Steps</a></li>
+                    
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div class="text-center fs-4 fw-bold" style="background-color: #F3C155;">
+				<button  type="button" data-bs-toggle="modal" data-bs-target="#freeShipping" class="w-100 fw-bold mb-0 px-0 h3 fs-5" style="border: none; background: transparent; color: #15437F;" >
+					Free Shipping Over $100 Retail Customers Only - Click Here For More Detail 
+				</button>
+			</div>
+			
+			<style>
+				.modal-backdrop{
+					z-index: 10 !important;
+				}
+			</style>
+
+
+			<div class="modal fade" id="freeShipping" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog modal-lg modal-dialog-centered">
+					<div class="modal-content">
+						<div class="modal-body">
+							<div class="modal-header">
+								<h5 class="modal-title fw-bold h1 text-danger" id="exampleModalLabel">Free Shipping Over $100*</h5>
+								<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+							</div>
+							<div class="row row-cols-md-5">
+								<div class="col p-4">
+									<img src="/images/48-us-icon.jpg" alt="Quick Spa Parts - shipping to the us not include shipments to Alaska, Hawaii, Canada, or any location outside of the continental United States." class="img-fluid py-3"/>
+									<p class="mb-0 text-center fw-bold h6">*Free shipping does not include shipments to Alaska, Hawaii, Canada, or any location outside of the continental United States.</p>
+								</div>
+								<div class="col p-4">
+									<img src="/images/cover-icon.jpg" alt="Quick Spa Parts - Spa and hot tub Covers" class="img-fluid py-3"/>
+									<p class="mb-0 text-center fw-bold h6">Not including Covers</p>
+								</div>
+								<div class="col p-4">
+									<img src="/images/cabinet-set-icon.jpg" alt="Quick Spa Parts - spa and hot tub Cabinet Sets" class="img-fluid py-3"/>
+									<p class="mb-0 text-center fw-bold h6">Not including Cabinet Sets & Cabinet Panels</p>
+								</div>
+								<div class="col p-4">
+									<img src="/images/retail-customer-icon.jpg" alt="Quick Spa Parts - Retail Customers" class="img-fluid py-3"/>
+									<p class="mb-0 text-center fw-bold h6">Retail Customers Only</p>
+								</div>
+                <div class="col p-4">
+									<img src="/images/calmetro/CM955-CSM.jpg" alt="Quick Spa Parts - Retail Customers" class="img-fluid py-3"/>
+									<p class="mb-0 text-center fw-bold h6">Not including Steps</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+        </header>
+
+        <div class="home-container">
+            <div class="home">
+                <div class="home-content">
+                    <!-- Content -->
+                    
+    <main>
+		<div class="container-xxxl my-4">
+			<div class="row">
+				<div class="col-12 col-lg-3 d-none d-lg-block">
+					
+					<img
+					src="/Images/SideBanners/Cal-Spas-Production-Floor.jpg"
+					class="img-fluid"
+					alt=""
+					/>
+				</div>
+
+				<div class="col-12 col-lg-9" >
+					<br />
+					<br />
+					<br />
+					<br />
+		
+				<h3>
+					<span id="MainBodyContent_lblFeedback">Something appears to have gone wrong.  Please try something else.</span>
+				</h3>
+		
+				</div>
+			</div>
+		</div>
+	</main>
+
+                </div>
+            </div>
+        </div>
+        
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+    <footer class="bg-dark">
+        
+
+<div class="text-dark py-3" style="background-color: #f1f1f1">
+    <div class="container-xxxl">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4">
+        <div class="text-center col my-2 my-lg-0 border-lg-end border-dark">
+            <h2 class="fw-bold mb-0 h5">Ask us online</h2>
+            <a href="/Hot-Tub-Parts/Contact-Us" class="mb-0 text-primary">Contact Us</a>
+        </div>
+        <div class="text-center col my-2 my-lg-0 border-lg-end border-dark">
+            <h2 class="fw-bold mb-0 h5">Ask us</h2>
+            <a href="tel:1-800-225-7727" class="mb-0 text-primary">1-800-225-7727</a>
+        </div>
+        <div class="text-center col my-2 my-lg-0 border-lg-end border-dark">
+            <h2 class="fw-bold mb-0 h5">Service Center</h2>
+            <a href="/ServiceCenterSignUp" class="mb-0 text-primary">Sign up to access wholesale pricing</a>
+        </div>
+        <div class="text-center col my-2 my-lg-0">
+            <h2 class="fw-bold mb-0 h5">Shipping</h2>
+            <p class="mb-0">Fast &amp; Reliable</p>
+        </div>
+        </div>
+    </div>
+</div>
+        
+
+<div id="footer-top" class="pt-4">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-5">
+            <div class="col-xl-2 mb-4">                
+                 
+                
+               <ul>
+                    <li>
+                        <a href="https://www.calspas.com" target="_blank">
+                            <img
+                                src="/images/common/Cal-Spas-Logo.webp"
+                                alt="Cal Spas Logo"
+                                class="footer-logo"
+                                width="140" 
+                            />
+                        </a>
+                        <br />
+                        <br />
+                    </li>
+                    <li>
+                        <a href="https://www.calflamebbq.com" target="_blank">
+                            <img
+                                src="/images/common/Cal-Flame-BBQ-logo.webp"
+                                alt="Cal Flame BBQ logo"
+                                class="footer-logo"
+                                width="140" height="49"
+                            />
+                        </a>
+                        <br />
+                        <br />
+                    </li>
+                    <li>
+                        <a href="https://www.quickbbqparts.com/" target="_blank">
+                            <img
+                                src="/images/common/Quickbbqparts-logo.webp"
+                                alt="Quick BBQ Parts logo"
+                                class="footer-logo"
+                                width="140" height="49"
+                            />
+                        </a>
+                        <br />
+                        <br />
+
+
+                    </li>
+                </ul>
+            </div>
+            <div class="col mb-4">
+                <h2 class="text-secondary">Contact Us</h2>
+                <ul>
+                    <li><a href="tel:+800-225-7727">(800) 225-7727</a></li>
+                    <li><a href="mailto:support@quickspaparts.com">info@quickspaparts.com</a></li>
+                    <li><a href="#">Site Map</a></li>
+                </ul>
+            </div>            
+            <div class="col-xl-3 mb-4">
+                <h2 class="text-secondary">Customer Service</h2>
+                <ul>
+                <li><a href="/Hot-Tub-Parts/Track-Your-Order">Track Your Order</a></li>
+                <li><a href="/Hot-Tub-Parts/Customer-Care">Customer Care</a></li>
+                <li><a href="/Hot-Tub-Parts/Contact-Us">Contact Us</a></li>
+                <li><a href="/Hot-Tub-Parts/Returns">Returns</a></li>
+                <li><a href="/Privacy-Policy.aspx">Privacy Policy</a></li>
+                </ul>
+            </div>
+            <div class="col mb-4">
+                <h2 class="text-secondary">Follow Us</h2>
+                <ul>
+                <li><a target="_blank" href="https://www.facebook.com/Quick-Spa-Parts-967145423420806/">Facebook</a></li>
+                <li><a target="_blank" href="https://www.twitter.com/QuickspaParts">Twitter</a></li>
+                <li><a target="_blank" href="https://www.instagram.com/quickspaparts">Instagram</a></li>
+                <li><a href="/Hot-Tub-Parts/Blog-Category">Blog</a></li>
+                </ul>
+            </div>
+            <div class="col-xl-2 mb-4">
+                
+                <ul>
+                    <li><img src="/images/common/payment-2.webp" alt="Quick Spa Parts - visa payment" width="59" height="39"/></li>
+                    <li><img src="/images/common/payment-3.webp" alt="Quick Spa Parts - american express payment" width="59" height="39"/></li>
+                    <li><img src="/images/common/payment-4.webp" alt="Quick Spa Parts - master card payment" width="59" height="39"/></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="footer-bottom" class="py-4">
+        <p class="text-center w-100">
+         © <span id="myYear"></span>. All Rights Reserved Lloyds Material Supply Company, Inc.
+        </p>        
+   
+</div>
+    </footer>
+
+    <style>
+.ui-autocomplete .ui-menu-item .highlight {
+  font-weight: bold;
+}
+
+.ui-autocomplete .ui-menu-item .ui-autocomplete-label .highlight {
+  font-weight: bold;
+}
+    </style>
+
+    <!-- Bootstrap 5.1.3 CDN -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.js" integrity="sha512-KBCt3sdFOcFtYTgEfE3uJckVpvPr1w8HPugyPgHFE/4iJOwhwj6eSaF27bDJTHRX2jyAFOgV3Ve9vOD97rbjrg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- SCRIPTS -->
+    <script src="/js/script.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script>
+        
+            
+
+        $("#HeaderNav_SearchBar_txtSearchItems").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    type: 'POST',
+                    url: 'https://quickspaparts.com/SearchAutoCompleteHandler.ashx',
+                    data: {
+                        term: request.term
+                    },
+                    dataType: 'json',
+                    success: function (data, textStatus, jqXHR) {
+                        var filteredData = $.map(data, function (item) {
+                            // Filter the data based on the input value
+                            if (item.toLowerCase().indexOf(request.term.toLowerCase()) !== -1) {
+                                return item;
+                            }
+                        }).slice(0, 10); // Limit to the top 10 search terms
+
+                        response(filteredData);
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        console.log(errorThrown);
+                    }
+                });
+            },
+            minLength: 3, // Minimum number of characters to trigger the autocomplete
+            select: function (event, ui) {
+                // Split the selected value by the '-' character and trim any whitespace
+                var partNumber = ui.item.value.split(' | ')[0].trim();
+
+                // Set the search box value to the part number only
+                this.value = partNumber;
+                $("#HeaderNav_SearchBar_btnSearchBtn").trigger("click");
+
+                return false; // Prevent the default behavior of the autocomplete widget
+            },
+            // Add the renderItem function to highlight the matched text
+            response: function (event, ui) {
+                if (!ui.content.length) {
+                    var noResult = { value: "", label: "No Results Found" };
+                    ui.content.push(noResult);
+                }
+            },
+            open: function () {
+                $('.ui-menu').width($(this).width());
+                $('.ui-menu').css({ 'max-height': '75vh' });
+                $('.ui-autocomplete').mouseover(function () {
+                    $(this).css('padding', 0);
+                });
+            }
+        }).autocomplete("instance")._renderItem = function (ul, item) {
+            var re = new RegExp(this.term, "gi");
+            var highlightedText = item.label.replace(re, "<span class='' style='font-weight: bold;'>$&</span>");
+            var partNumber = item.label.split(' | ')[0];
+            var description = item.label.split(' | ')[1];
+            var formattedText = '<span class="part-number">' + partNumber + '</span> | ' + description;
+            return $("<li>")
+                .append($("<div>").addClass("autocomplete-item").html(formattedText))
+                .appendTo(ul);
+        };
+    </script>
+
+    <script type="text/javascript"> adroll_adv_id = "SORK2KSCMFGPTPJ3NYMYMD"; adroll_pix_id = "5A7UAUIMGZAAREU3HAWV2I"; adroll_version = "2.0";  (function(w, d, e, o, a) { w.__adroll_loaded = true; w.adroll = w.adroll || []; w.adroll.f = [ 'setProperties', 'identify', 'track' ]; var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id + "/roundtrip.js"; for (a = 0; a < w.adroll.f.length; a++) { w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) { return function() { w.adroll.push([ n, arguments ]) } })(w.adroll.f[a]) }  e = d.createElement('script'); o = d.getElementsByTagName('script')[0]; e.async = 1; e.src = roundtripUrl; o.parentNode.insertBefore(e, o); })(window, document); adroll.track("pageView"); </script>
+
+
+</body>
+
+
+
+</html>
+
+
